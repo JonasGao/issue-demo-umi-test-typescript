@@ -1,0 +1,16 @@
+{
+  "name": "test-ts-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/jest": "^23.3.7",
+    "umi": "^2.2.0-beta.8",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "umi test"
+  },
+  "author": "JonasGao",
+  "license": "ISC"
+}
