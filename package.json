@@ -1,11 +1,11 @@
 {
-  "name": "test-ts-jest",
+  "name": "issue-demo-umi-test-typescript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "@types/jest": "^23.3.7",
-    "umi": "^2.2.0-beta.8",
+    "umi": "^2.2.0-beta.8"
   },
   "devDependencies": {},
   "scripts": {
